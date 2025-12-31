@@ -22,5 +22,7 @@ Instructions:
 Dependency Info:
 
 pyautogui - Captures screenshots and reads pixel colors at specific screen coordinates.
+
 pynput - Detects global keyboard hotkeys (F10, F11, F12) even when the window isn't focused.
+
 screeninfo - Detects multiple monitors and adjusts coordinates for accurate color picking across displays.
